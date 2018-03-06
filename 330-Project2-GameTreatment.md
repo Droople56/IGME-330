@@ -38,7 +38,7 @@ Only the perfection of aiming and firing with good timing.
 
 ## Screenshots
 ![Monk Ley preparing](http://mycountry955.com/files/2011/07/monkey.jpg?w=600&h=0&zc=1&s=0&a=t&q=89)
-![Monk Ley victorious](https://i.ytimg.com/vi/6ExG0pzQOwI/maxresdefault.jpg)
+![Concept Image](http://i.imgur.com/lUyTu.png)
 
 ## Other
 Bananagans 2 is meant to be another casual experience with the wave defense twist. The objective is to hold the line as long as you can, fighiting against endless waves of more and more challenging opponents.
